@@ -147,7 +147,7 @@
     "AUTO_REACTION": {
       "description": "Set 'yes' to enable bot reactions to messages in private chats",
       "value": "no",
-      "required": false
+      "required": true
     }
   }
 },
