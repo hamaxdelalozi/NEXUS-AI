@@ -1,10 +1,10 @@
 {
-  "bot-name": "NEXUS-AI MULT DEVICE",
+  "bot-name": "NEXUS-AI ",
   "description": "Lucky Whatsapp device bot made by FrediEzra to help Whatsapp users to enjoy while helping...",
   "logo": "https://files.catbox.moe/6rlmjb.jpg",
-  "keywords": ["Pkdriller", "Pkdriller01", "Nexus-ai"],
+  "keywords": ["Newtonr", "AndalaTheMr", "Nexus-ai"],
   "documentation-link": "https://nexus-ai-pairing-site.onrender.com/",
-  "owner-verification":"pkdriller520@gmail.com",
+  "owner-verification":"hamaxdelalozi@gmail.com",
   "env": {
     "PREFIX":
     {
@@ -30,7 +30,7 @@
     },
     "AUTO_REACT_STATUS": {
       "description": "Your contact status will be react automatically (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_BIO": {
@@ -66,7 +66,7 @@
     },
     "ANTI_CALL_TEXT": {
       "description": "Type your anticall message to always send when calls are declined.You can as well leave it blank",
-      "value": "My owner don't receive any call now because it's busy",
+      "value": "I am sorry i cant take any calls right now",
       "required": false
     },
     "BOT_NAME": {
@@ -76,7 +76,7 @@
     },
     "PUBLIC_MODE": {
       "description": "Set 'yes' to make your bot public or 'no' to keep it private",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -91,12 +91,12 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUUF6WGxGM2xyVHZkMzJvaE9LMW9mSk92QjJjbDBnMTBzVEdkcGMyL0MyUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYXp6aFlqTjZLeEpOWURxYno3TVBoSXB4REdHd0ZJWnRsU2x6WUthcDFIaz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJBS3R0OGlOSmI1OVpCSEcyQklwaEtPdlk0anV6bG1jUXN0aEcrUXhmUEV3PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ0NnR0UTNtVG83cm1rc002cFFZM05LUzJGcmNFK0hWdVIyNUZ5eE4zbVJVPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IllFdTBYdkNGNVRMUGJrM0Mxc2V0K29xYnhQM0ZWdXFDdkMyMzRqT2NYRXM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjN5VTAwbkUwRzl5akdtUTg3NkxXTHdFd3p3V21tTEloQ1RWQ01yWkFwMHM9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWUE2cE5MVTFxN29UYkVaMkd5cm91SnlDbHhWSGMrQ1E5YmRsWTgrQWhsMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUTdKdzh2c0ZxQTVLVjZjUDhNcjhnMEZ4cUlXOGFiOGd1QXhJa3lVR3huND0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IituOUdYd1lQVDhVM3AxT1ZlTzZta0hISFkzT2ZkVTBUQmFQTXo4VzljRVorUWlteHpJNk1ZZ0NoL29Ia3EzYkdMaDd2aWhUSkZMNjlCVXNmQjl4QmhRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MiwiYWR2U2VjcmV0S2V5IjoicUR2blN1azNkWkZtRkF0Z1h4OUZadW5PcTgvOVRIUVBlTVZrSDU2NjY4TT0iLCJwcm9jZXNzZWRIaXN0b3J5TWVzc2FnZXMiOlt7ImtleSI6eyJyZW1vdGVKaWQiOiIyNTQ3OTM3NTMzMjdAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiQjI4RjYyQjVCNkMwMUEzOEM0NTM2OUVGQkFEQjA1NEMifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc1MDU3MTE3MH0seyJrZXkiOnsicmVtb3RlSmlkIjoiMjU0NzkzNzUzMzI3QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjYxQjU1QzM3QUE2MjRGMzVEN0VGRDQ4M0I1NjQyQzBCIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NTA1NzExNzB9LHsia2V5Ijp7InJlbW90ZUppZCI6IjI1NDc5Mzc1MzMyN0BzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiIzOUQ1RDQ1QkU5RjhCNDk3MzhBMjg3M0Q1RENDNjU4MyJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzUwNTcxMTczfV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiJYMThSSFdQWiIsIm1lIjp7ImlkIjoiMjU0NzkzNzUzMzI3Ojg1QHMud2hhdHNhcHAubmV0IiwibmFtZSI6IvCdkI3wnZCe8J2QsPCdkK3wnZCo8J2QpyDwnZCA8J2Qp/CdkJ3wnZCa8J2QpfCdkJoiLCJsaWQiOiIxMzU1NDk2ODc5OTY1NDg6ODVAbGlkIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNLemkvYW9DRUpLeDNzSUdHQUlnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJ3d013TXBzUit1TGl2dmgyZDQxWGFNa1FtdWVwaWVpRW1CMnpxQmRwU2xBPSIsImFjY291bnRTaWduYXR1cmUiOiJkV1h2QitlaVpGOUhYOVByME9SZ0E4N0hpai91ZyswNjVYMktQUXhpekxRbklxNTcyRUh6ODJNam9COWxlZTVXTHl2T0s1WWpHUFRQWU92ZFdnRktEdz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiMERORk1WMUNrWEwranNMNVk5SzZpaTM2MWpMZFRha0JsVHpwdWtLVS82ODg5emNRdzBOcytFRUF4ZG5kNGQ0Z00vWU1tVGdaR2dJMERTM0d0V3Npanc9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNTQ3OTM3NTMzMjc6ODVAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCY01ETURLYkVmcmk0cjc0ZG5lTlYyakpFSnJucVlub2hKZ2RzNmdYYVVwUSJ9fV0sInBsYXRmb3JtIjoic21iYSIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0FJSURRPT0ifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzUwNTcxMTY3LCJsYXN0UHJvcEhhc2giOiIxSzRoSDQiLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQU1jMiJ9",
       "required": true
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "Pkdriller01",
+      "value": "AndalaTheMr",
       "required": false
     },
     "URL": {
@@ -111,12 +111,12 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "254794146821",
+      "value": "254793753327",
       "required": false
     },
     "WARN_COUNT": {
       "description": "Set the warning limit for warning commands",
-      "value": "5",
+      "value": "3",
       "required": false
     },
     "STARTING_BOT_MESSAGE": {
@@ -126,7 +126,7 @@
     },
     "PRESENCE": {
       "description": "Mark your presence: 1 for online, 2 for typing, 3 for recording, or leave blank for real state",
-      "value": "1",
+      "value": "3",
       "required": false
     },
     "ANTI_DELETE_MESSAGE": {
@@ -136,7 +136,7 @@
     },
     "ANTI_CALL": {
       "description": "Automatically decline incoming calls (set 'on' to activate or 'off' to deactivate)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_BLOCK": {
